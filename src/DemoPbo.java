@@ -70,7 +70,7 @@ class PBO extends Peminjaman {
     }
 }
 
-public class DemoPbo extends Parent {
+public class DemoPbo {
 
     // void print(){
     //     // System.out.println(x);// x error karena x diberi modifier private di class yang berbeda
